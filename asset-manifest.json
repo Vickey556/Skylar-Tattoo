@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/skylar-tattoo/static/css/main.84b3e0b0.css",
+    "main.js": "/skylar-tattoo/static/js/main.07393a0d.js",
+    "static/media/slick.svg": "/skylar-tattoo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/skylar-tattoo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/skylar-tattoo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/skylar-tattoo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/skylar-tattoo/index.html",
+    "main.84b3e0b0.css.map": "/skylar-tattoo/static/css/main.84b3e0b0.css.map",
+    "main.07393a0d.js.map": "/skylar-tattoo/static/js/main.07393a0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b3e0b0.css",
+    "static/js/main.07393a0d.js"
+  ]
+}
