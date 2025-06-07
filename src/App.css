@@ -1,0 +1,37 @@
+:root {
+  --bg-color: #5F605C;
+  --primary-color: #470000;
+  --accent-color: #FFF4E6;
+  --text-color: #e7e5e5;
+  --radius: 1rem;
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'UnifrakturCook', cursive;
+  color: var(--accent-color);
+}
+
+section {
+  padding: 4rem 2rem;
+}
+
+.card {
+  background: var(--primary-color);
+  border-radius: var(--radius);
+  padding: 2rem;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
